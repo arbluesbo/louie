@@ -1,12 +1,12 @@
 # site
-title: Louie
-baseurl: "/louie"
+title: Project Registry
+baseurl: "/project_registry"
 url: "http://lily.work"
 favicon: "/assets/sample/ico.png"
 g_analytics: UA-12345678-1
 
 # bio
-header: Louie
+header: Project Registry
 desc: >
   A Jekyll theme (that looks awesome). Louie is free, lightweight,
   and customizable as a blog, archive, or portfolio.
